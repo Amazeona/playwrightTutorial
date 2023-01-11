@@ -12,6 +12,3 @@ async def main():
 
 
 asyncio.run(main())
-
-print("testing vs code stage and stuff")
-print("right back from pycharm!")
